@@ -1,6 +1,6 @@
 ![head.png](https://user-images.githubusercontent.com/50391243/207243119-90645955-0591-47a0-ba25-281c2f0edfce.png)
 
-<p>I am a Frontend Developer, love to create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, and JS, building small and medium web apps, features, animations, and coding interactive layouts.</p>
+<p>I am a Software Engineer and have passionate a Frontend Developer. I love to create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, and JS, building small and medium web apps, features, animations, and coding interactive layouts.</p>
 
 <br/>
 
