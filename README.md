@@ -24,8 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-## Git Status
-
+## GitHub Status
 <img src="https://github-readme-stats.vercel.app/api?username=hphuc1609&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
 
 ## Get In Touch
