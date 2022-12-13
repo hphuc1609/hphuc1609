@@ -6,7 +6,7 @@
 
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118a4a3e9aff6b041e706accd77cfb7303948b4b1d&rid=giphy.gif&ct=g" align="right" width="256"/>
 
-## My Tech Stack
+## My Tech Stacks
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
