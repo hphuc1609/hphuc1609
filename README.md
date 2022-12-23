@@ -1,13 +1,13 @@
 ![head.png](https://user-images.githubusercontent.com/50391243/207243119-90645955-0591-47a0-ba25-281c2f0edfce.png)
 
 ## About me
-<p>I am a Software Engineer and passionate Web Developer. I love to create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, building small and medium web apps, features, animations, and coding interactive layouts.</p>
+<p>I am a Software Engineer and a passionate Web Developer. I love to create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, building small and medium web apps, features, animations, and coding interactive layouts.</p>
 
 <br/>
 
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118a4a3e9aff6b041e706accd77cfb7303948b4b1d&rid=giphy.gif&ct=g" align="right" width="256"/>
 
-## My Tech Stacks
+## Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-## GitHub Status
+## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hphuc1609&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
 
 ## Get In Touch
