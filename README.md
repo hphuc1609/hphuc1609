@@ -25,8 +25,7 @@ Frameworks:
 UI Libraries:
 
 ![Material UI](https://img.shields.io/badge/Mui-2F58CD.svg?style=flat-square&logo=mui&logoColor=%2361DAFB)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-2C3E50.svg?style=flat-square)
-![Hyper UI](https://img.shields.io/badge/Hyper_UI-3498db.svg?style=flat-square&logo=hyper&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn/UI-2C3E50.svg?style=flat-square)
 ![Flowbite](https://img.shields.io/badge/Flowbite-ff7f50.svg?style=flat-square&logo=flowbite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8E2DE2.svg?style=flat-square&logo=bootstrap&logoColor=white)
